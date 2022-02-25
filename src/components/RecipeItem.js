@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from "react-router-dom";
 
 function RecipeItem({ image, name, url}) {
   return (
@@ -6,7 +7,14 @@ function RecipeItem({ image, name, url}) {
       <div style={{ backgroundImage: `url(${image})` }}> </div>
       <h1> {name} </h1>
       <div className="ChilliChiken">
-        <button>{url}</button>
+        <button><Link
+  to={{
+    pathname: "/courses",
+    search: "?sort=name",
+    hash: "#https://api.alat.ng/RegistrationApi/index.html",
+    state: { fromDashboard: true }
+  }}
+/>read</button>
           </div>
       
     </div>
