@@ -14,7 +14,7 @@ function recipe() {
               key={key}
               image={recipeItem.image}
               name={recipeItem.name}
-              url={recipeItem.url}
+              about={recipeItem.about}
             />
           );
         })}

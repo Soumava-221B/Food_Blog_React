@@ -1,13 +1,13 @@
 import React from "react";
-import PizzaLeft from "../assets/fooda.jpeg";
 import "../styles/Contact.css";
+import Blog from "../assets/blog.jpg";
 
 function Contact() {
   return (
     <div className="contact">
       <div
         className="leftSide"
-        style={{ backgroundImage: `url(${PizzaLeft})` }}
+        style={{ backgroundImage: `url(${Blog})` }}
       ></div>
       <div className="rightSide">
         <h1> Contact Us</h1>

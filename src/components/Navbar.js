@@ -17,7 +17,7 @@ function Navbar() {
         <div className="hiddenLinks">
           <Link to="/"> Home </Link>
           <Link to="/recipe"> Recipes </Link>
-          <Link to="/recipedetails"> RecipeDetails </Link>
+          <Link to="/reviews"> Reviews </Link>
           <Link to="/about"> About </Link>
           <Link to="/contact"> Contact </Link>
         </div>
@@ -25,7 +25,7 @@ function Navbar() {
       <div className="rightSide">
         <Link to="/"> Home </Link>
         <Link to="/recipe"> Recipes </Link>
-        <Link to="/recipedetails"> RecipeDetails </Link>
+        <Link to="/reviews"> Reviews </Link>
         <Link to="/about"> About </Link>
         <Link to="/contact"> Contact </Link>
         <button onClick={toggleNavbar}>
