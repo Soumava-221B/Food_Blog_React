@@ -15,6 +15,7 @@ function recipe() {
               image={recipeItem.image}
               name={recipeItem.name}
               about={recipeItem.about}
+              source_url={recipeItem.source_url}
             />
           );
         })}
