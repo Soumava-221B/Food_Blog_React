@@ -36,3 +36,13 @@
   justify-content: center;
   transform: translateY(-40px);
 }
+
+.about .aboutBottom p {
+  font-weight: 300;
+  font-size: 20px;
+  color: rgb(27, 59, 204);
+  height: 40px;
+  justify-content: center;
+  align-content: center;
+  transform: translateY(-40px);
+}

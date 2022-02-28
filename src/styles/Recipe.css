@@ -51,6 +51,20 @@
   margin-left: 20px;
 }
 
+.recipeItem button {
+  color: greenyellow;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  justify-content: center;
+  background-color: #1bca15;
+  height: 40px;
+  width: 150px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
 @media only screen and (max-width: 1300px) {
   .recipeList {
     grid-template-columns: 1fr 1fr;
