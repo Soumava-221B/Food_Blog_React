@@ -20,7 +20,7 @@ function About() {
         <p>
           This blog is for anyone who loves to cook and for everyone who doesn’t. Indian cusines are rich in spices and their diversity in taste attracts people across the globe. Due to the differences in climate and soil conditions, the local cuisines in various regions may vary greatly from each other, as each region uses spices, herbs and ingredients that are grown locally.
           <br></br>
-          We choice the top indian foods which are popular in the world and present their recipes at its simplest way of prparation. People who have like our recipes and want to contribute can contact us. We would love to have your opinion about our foods, best reviews gets featured in our review page.  
+          We choose the top indian foods which are popular in the world and present their recipes at its simplest way of preparation. People who have liked our recipes and want to contribute can contact us. We would love to have their opinion about our foods, best recipe will be added in our recipe page.  
         </p>
         
       </div>
